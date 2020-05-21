@@ -5,6 +5,10 @@ Setting debug mode to Objective-C by this cmd
 ```
 (lldb) settings set target.language objective-c
 ```
+Setting it back to Swift
+```
+(lldb) settings set target.language swift
+```
 
 #### 
 **\-\[UIView recursiveDescription]**: method to print view hierarchy of current view and its subviews
