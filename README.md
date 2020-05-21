@@ -5,7 +5,7 @@ Setting debug mode to Objective-C by this cmd
 ```
 (lldb) settings set target.language objective-c
 ```
-Setting it back to Swift
+Later then, setting it back to Swift
 ```
 (lldb) settings set target.language swift
 ```
