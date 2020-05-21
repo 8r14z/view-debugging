@@ -10,7 +10,7 @@ Later then, setting it back to Swift
 (lldb) settings set target.language swift
 ```
 
-#### 
+#### Commands
 **\-\[UIView recursiveDescription]**: method to print view hierarchy of current view and its subviews
 
 **\-\[UIView \_parentDescription]**: method to print view hierarchy of current view and its parents
