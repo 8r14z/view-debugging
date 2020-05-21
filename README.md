@@ -11,12 +11,12 @@ Later then, setting it back to Swift
 ```
 
 #### Commands
-**\-\[UIView recursiveDescription]**: method to print view hierarchy of current view and its subviews
+- **\-\[UIView recursiveDescription]**: method to print view hierarchy of current view and its subviews
 
-**\-\[UIView \_parentDescription]**: method to print view hierarchy of current view and its parents
+- **\-\[UIView \_parentDescription]**: method to print view hierarchy of current view and its parents
 
-**+\[UIViewController \_printHierarchy]** (class method):  get view hierarchy of all view controllers and their states
+- **+\[UIViewController \_printHierarchy]** (class method):  get view hierarchy of all view controllers and their states
 
-**(lldb) e dump(T)** for Swift | **\-[UIView \_ivardescription]** for Objective-C
+- **(lldb) e dump(T)** for Swift | **\-[UIView \_ivardescription]** for Objective-C
 
 To print state of an object
