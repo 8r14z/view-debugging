@@ -11,4 +11,4 @@ Setting debug mode to Objective-C by this cmd
 
 \- \[UIView \_parentDescription]: method to print view hierarchy of current view and its parents
 
-+\[UIViewController \_printHierarchy] (class method):  get view hierarchy of all view controllers: presenting view controllers, presented view controllers, parent vc, child vc, presentation controller
++\[UIViewController \_printHierarchy] (class method):  get view hierarchy of all view controllers and their state
